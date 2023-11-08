@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
-	"clientExecutable": "client.exe"
+	"clientFolder": "LiikuidOT Client",
+	"newClientUrl" : "https://github.com/liikuid/liikuidLauncher/releases/download/1.2/LiikuidOTClient.zip",
+	"clientExecutable": "LiikuidOT Client.exe"
 }
