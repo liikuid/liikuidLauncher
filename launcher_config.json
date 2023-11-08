@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "LiikuidOT Client",
-	"newClientUrl" : "https://github.com/liikuid/liikuidLauncher/releases/download/1.2/LiikuidOTClient.zip",
+	"newClientUrl" : "https://github.com/liikuid/liikuidLauncher/releases/download/1.2/LiikuidOT.Client.zip",
 	"clientExecutable": "LiikuidOT Client.exe"
 }
